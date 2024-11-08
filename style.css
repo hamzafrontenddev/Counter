@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+}
+
+.container{
+    height: 100px;
+    width: 300px;
+    background-color: transparent;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.counter-value{
+    font-size: 50px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
